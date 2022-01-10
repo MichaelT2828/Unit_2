@@ -5,7 +5,7 @@ I found Python to be much more intuitive, while the syntax of C was much more co
 or the other way around, which is very simple in Python requiring a simple int() or str(). However, in C a simple switch requires the sprintf() function, with a very
 specific syntax of (pointer to string, "%f" to specify the value is a floating point integer (I will be honest I still don't really understand this part), pointer to integer variable).
 
-While the syntax and learning curve of C might be more difficult, C is a structure oriented programming language, which means it is more useful in programming the computer on
+While the syntax and learning curve of C might be more difficult, C is a structure oriented programming language (while Python is an object oriented language), which means it is more useful in programming the computer on
 a hardware level. It may lack the many built in functions characteristic of higher-level languages such as Python, but as a result is more optimized for low memory management
 and is less taxing on the computer. 
 
